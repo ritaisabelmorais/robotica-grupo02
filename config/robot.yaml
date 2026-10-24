@@ -1,0 +1,19 @@
+# Todos os parametros do robo vivem aqui, nunca no codigo.
+# ip: 127.0.0.1 = simulador de firmware da UFACTORY; para o robo real, o IP da bancada.
+ip: 127.0.0.1
+check_joint_limit: false      # false so para o simulador; true no robo real
+home: [0, 0, 0, 0, 0, 0]      # graus
+home_speed: 20                # graus/s
+# Ferramenta para a detecao de auto-colisao: 0 = sem ferramenta (simulador),
+# 7 = Lite 6 Gripper (robo real da bancada)
+collision_tool_model: 0
+# Modo reduzido (limites do par. 3 do enunciado da parte 1)
+reduced_mode: true
+reduced_joint_speed: 54       # graus/s (30% de 180 graus/s)
+reduced_tcp_speed: 150        # mm/s
+# Fronteira do TCP, referencial da base: x_max, x_min, y_max, y_min, z_max, z_min (mm)
+# Valores para o simulador. No robo real: usar os combinados com o docente.
+tcp_boundary: [400, -400, 400, -400, 450, 50]
+cmd_timeout: 10              # s; 2 s (valor do SDK) e curto para o simulador emulado
+enable_retries: 3             # tentativas de motion_enable
+log_file: logs/session.log

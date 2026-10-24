@@ -1,0 +1,716 @@
+2026-10-24 17:43:49,465 clean_warn -> code=0
+2026-10-24 17:43:49,465 clean_error -> code=0
+2026-10-24 17:43:54,469 motion_enable -> code=3
+2026-10-24 17:43:54,470 sessao fechada
+2026-10-24 17:44:48,874 clean_warn -> code=0
+2026-10-24 17:44:48,874 clean_error -> code=0
+2026-10-24 17:44:48,874 motion_enable -> code=0
+2026-10-24 17:44:48,875 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:44:48,875 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:44:48,875 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:44:48,875 set_fence_mode -> code=[0]
+2026-10-24 17:44:48,876 sessao fechada
+2026-10-24 17:45:16,214 clean_warn -> code=0
+2026-10-24 17:45:16,215 clean_error -> code=0
+2026-10-24 17:45:26,218 motion_enable -> code=3
+2026-10-24 17:45:26,219 sessao fechada
+2026-10-24 17:46:34,101 clean_warn -> code=0
+2026-10-24 17:46:34,102 clean_error -> code=0
+2026-10-24 17:46:34,102 motion_enable tentativa 1 -> code=0
+2026-10-24 17:46:34,102 motion_enable -> code=0
+2026-10-24 17:46:34,102 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:46:34,102 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:46:34,102 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:46:34,103 set_fence_mode -> code=0
+2026-10-24 17:46:34,103 set_reduced_mode -> code=0
+2026-10-24 17:46:34,103 set_mode -> code=0
+2026-10-24 17:46:34,104 [set_state], xArm is ready to move
+2026-10-24 17:46:34,104 set_state -> code=0
+2026-10-24 17:46:34,104 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:46:34,576 home: code=0 angles=[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2026-10-24 17:46:34,577 [set_state], xArm is not ready to move
+2026-10-24 17:46:34,577 sessao fechada
+2026-10-24 17:48:29,434 clean_warn -> code=0
+2026-10-24 17:48:29,434 clean_error -> code=0
+2026-10-24 17:48:39,438 motion_enable tentativa 1 -> code=3
+2026-10-24 17:48:39,438 motion_enable tentativa 2 -> code=0
+2026-10-24 17:48:39,438 motion_enable -> code=0
+2026-10-24 17:48:39,439 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:48:39,440 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:48:39,440 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:48:39,440 set_fence_mode -> code=0
+2026-10-24 17:48:39,441 set_reduced_mode -> code=0
+2026-10-24 17:48:39,441 set_mode -> code=0
+2026-10-24 17:48:39,442 [set_state], xArm is ready to move
+2026-10-24 17:48:39,442 set_state -> code=0
+2026-10-24 17:48:39,442 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:48:39,442 [set_state], xArm is not ready to move
+2026-10-24 17:48:39,442 sessao fechada
+2026-10-24 17:48:39,446 clean_warn -> code=0
+2026-10-24 17:48:39,447 clean_error -> code=0
+2026-10-24 17:48:49,450 motion_enable tentativa 1 -> code=3
+2026-10-24 17:48:49,450 motion_enable tentativa 2 -> code=0
+2026-10-24 17:48:49,451 motion_enable -> code=0
+2026-10-24 17:48:49,451 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:48:49,452 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:48:49,452 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:48:49,452 set_fence_mode -> code=0
+2026-10-24 17:48:49,453 set_reduced_mode -> code=0
+2026-10-24 17:48:49,453 set_mode -> code=0
+2026-10-24 17:48:49,454 [set_state], xArm is ready to move
+2026-10-24 17:48:49,454 set_state -> code=0
+2026-10-24 17:48:49,454 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:48:49,454 [set_state], xArm is not ready to move
+2026-10-24 17:48:49,454 sessao fechada
+2026-10-24 17:48:49,457 clean_warn -> code=0
+2026-10-24 17:48:49,458 clean_error -> code=0
+2026-10-24 17:48:59,461 motion_enable tentativa 1 -> code=3
+2026-10-24 17:48:59,461 motion_enable tentativa 2 -> code=0
+2026-10-24 17:48:59,461 motion_enable -> code=0
+2026-10-24 17:48:59,461 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:48:59,462 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:48:59,462 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:48:59,463 set_fence_mode -> code=0
+2026-10-24 17:48:59,463 set_reduced_mode -> code=0
+2026-10-24 17:48:59,464 set_mode -> code=0
+2026-10-24 17:48:59,464 [set_state], xArm is ready to move
+2026-10-24 17:48:59,464 set_state -> code=0
+2026-10-24 17:48:59,464 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:48:59,465 [set_state], xArm is not ready to move
+2026-10-24 17:48:59,465 sessao fechada
+2026-10-24 17:48:59,468 clean_warn -> code=0
+2026-10-24 17:48:59,468 clean_error -> code=0
+2026-10-24 17:49:09,471 motion_enable tentativa 1 -> code=3
+2026-10-24 17:49:09,471 motion_enable tentativa 2 -> code=0
+2026-10-24 17:49:09,471 motion_enable -> code=0
+2026-10-24 17:49:09,471 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:49:09,472 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:49:09,472 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:49:09,472 set_fence_mode -> code=0
+2026-10-24 17:49:09,472 set_reduced_mode -> code=0
+2026-10-24 17:49:09,472 set_mode -> code=0
+2026-10-24 17:49:09,473 [set_state], xArm is ready to move
+2026-10-24 17:49:09,473 set_state -> code=0
+2026-10-24 17:49:09,473 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:49:09,474 [set_state], xArm is not ready to move
+2026-10-24 17:49:09,474 sessao fechada
+2026-10-24 17:49:11,481 clean_warn -> code=0
+2026-10-24 17:49:11,482 clean_error -> code=0
+2026-10-24 17:49:11,482 motion_enable tentativa 1 -> code=0
+2026-10-24 17:49:11,482 motion_enable -> code=0
+2026-10-24 17:49:11,482 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:49:11,482 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:49:11,483 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:49:11,483 set_fence_mode -> code=0
+2026-10-24 17:49:11,484 set_reduced_mode -> code=0
+2026-10-24 17:49:11,484 set_mode -> code=0
+2026-10-24 17:49:11,485 [set_state], xArm is ready to move
+2026-10-24 17:49:11,485 set_state -> code=0
+2026-10-24 17:49:11,485 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:49:11,485 [set_state], xArm is not ready to move
+2026-10-24 17:49:11,486 sessao fechada
+2026-10-24 17:49:11,590 clean_warn -> code=0
+2026-10-24 17:49:11,590 clean_error -> code=0
+2026-10-24 17:49:21,584 motion_enable tentativa 1 -> code=3
+2026-10-24 17:49:21,584 motion_enable tentativa 2 -> code=0
+2026-10-24 17:49:21,584 motion_enable -> code=0
+2026-10-24 17:49:21,584 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:49:21,584 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:49:21,585 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:49:21,585 set_fence_mode -> code=0
+2026-10-24 17:49:21,585 set_reduced_mode -> code=0
+2026-10-24 17:49:21,585 set_mode -> code=0
+2026-10-24 17:49:21,586 [set_state], xArm is ready to move
+2026-10-24 17:49:21,586 set_state -> code=0
+2026-10-24 17:49:21,586 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:49:21,586 [set_state], xArm is not ready to move
+2026-10-24 17:49:21,587 sessao fechada
+2026-10-24 17:49:22,477 clean_warn -> code=0
+2026-10-24 17:49:22,477 clean_error -> code=0
+2026-10-24 17:49:22,477 motion_enable tentativa 1 -> code=0
+2026-10-24 17:49:22,477 motion_enable -> code=0
+2026-10-24 17:49:22,477 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:49:22,478 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:49:22,478 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:49:22,478 set_fence_mode -> code=0
+2026-10-24 17:49:22,479 set_reduced_mode -> code=0
+2026-10-24 17:49:22,479 set_mode -> code=0
+2026-10-24 17:49:22,480 [set_state], xArm is ready to move
+2026-10-24 17:49:22,480 set_state -> code=0
+2026-10-24 17:49:22,480 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:49:22,480 [set_state], xArm is not ready to move
+2026-10-24 17:49:22,480 sessao fechada
+2026-10-24 17:49:24,483 clean_warn -> code=0
+2026-10-24 17:49:24,484 clean_error -> code=0
+2026-10-24 17:49:24,484 motion_enable tentativa 1 -> code=0
+2026-10-24 17:49:24,484 motion_enable -> code=0
+2026-10-24 17:49:24,485 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:49:24,485 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:49:24,485 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:49:24,485 set_fence_mode -> code=0
+2026-10-24 17:49:24,486 set_reduced_mode -> code=0
+2026-10-24 17:49:24,486 set_mode -> code=0
+2026-10-24 17:49:24,486 [set_state], xArm is ready to move
+2026-10-24 17:49:24,486 set_state -> code=0
+2026-10-24 17:49:24,486 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:49:24,487 [set_state], xArm is not ready to move
+2026-10-24 17:49:24,487 sessao fechada
+2026-10-24 17:49:24,592 clean_warn -> code=0
+2026-10-24 17:49:24,593 clean_error -> code=0
+2026-10-24 17:49:34,593 motion_enable tentativa 1 -> code=3
+2026-10-24 17:49:34,593 motion_enable tentativa 2 -> code=0
+2026-10-24 17:49:34,593 motion_enable -> code=0
+2026-10-24 17:49:34,593 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:49:34,594 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:49:34,594 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:49:34,595 set_fence_mode -> code=0
+2026-10-24 17:49:34,595 set_reduced_mode -> code=0
+2026-10-24 17:49:34,595 set_mode -> code=0
+2026-10-24 17:49:34,596 [set_state], xArm is ready to move
+2026-10-24 17:49:34,596 set_state -> code=0
+2026-10-24 17:49:34,596 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:49:34,597 [set_state], xArm is not ready to move
+2026-10-24 17:49:34,597 sessao fechada
+2026-10-24 17:49:34,598 clean_warn -> code=0
+2026-10-24 17:49:34,599 clean_error -> code=0
+2026-10-24 17:49:44,599 motion_enable tentativa 1 -> code=3
+2026-10-24 17:49:44,599 motion_enable tentativa 2 -> code=0
+2026-10-24 17:49:44,599 motion_enable -> code=0
+2026-10-24 17:49:44,600 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:49:44,600 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:49:44,601 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:49:44,601 set_fence_mode -> code=0
+2026-10-24 17:49:44,601 set_reduced_mode -> code=0
+2026-10-24 17:49:44,601 set_mode -> code=0
+2026-10-24 17:49:44,602 [set_state], xArm is ready to move
+2026-10-24 17:49:44,602 set_state -> code=0
+2026-10-24 17:49:44,602 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:49:44,603 [set_state], xArm is not ready to move
+2026-10-24 17:49:44,603 sessao fechada
+2026-10-24 17:49:44,708 clean_warn -> code=0
+2026-10-24 17:49:44,709 clean_error -> code=0
+2026-10-24 17:49:54,714 motion_enable tentativa 1 -> code=3
+2026-10-24 17:49:54,714 motion_enable tentativa 2 -> code=0
+2026-10-24 17:49:54,714 motion_enable -> code=0
+2026-10-24 17:49:54,714 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:49:54,715 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:49:54,715 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:49:54,715 set_fence_mode -> code=0
+2026-10-24 17:49:54,715 set_reduced_mode -> code=0
+2026-10-24 17:49:54,716 set_mode -> code=0
+2026-10-24 17:49:54,716 [set_state], xArm is ready to move
+2026-10-24 17:49:54,717 set_state -> code=0
+2026-10-24 17:49:54,717 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:49:56,433 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,435 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,436 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,438 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,439 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,441 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,442 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,443 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,445 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,446 home: code=1 angles=[-22.139776753209166, 4.919931291008866, 9.839919877797245, 0.0, 7.379925584403056, 0.0, 0.0]
+2026-10-24 17:49:56,488 ControllerError, code: 23
+2026-10-24 17:49:56,649 T9: set_position fora da fronteira -> code=1
+2026-10-24 17:49:56,650 sessao fechada
+2026-10-24 17:49:57,493 clean_warn -> code=0
+2026-10-24 17:49:57,493 clean_error -> code=0
+2026-10-24 17:49:57,493 motion_enable tentativa 1 -> code=0
+2026-10-24 17:49:57,493 motion_enable -> code=0
+2026-10-24 17:49:57,493 set_reduced_max_joint_speed -> code=0
+2026-10-24 17:49:57,494 set_reduced_max_tcp_speed -> code=0
+2026-10-24 17:49:57,494 set_reduced_tcp_boundary -> code=0
+2026-10-24 17:49:57,494 set_fence_mode -> code=0
+2026-10-24 17:49:57,494 set_reduced_mode -> code=0
+2026-10-24 17:49:57,495 set_mode -> code=0
+2026-10-24 17:49:57,495 [set_state], xArm is ready to move
+2026-10-24 17:49:57,495 set_state -> code=0
+2026-10-24 17:49:57,495 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 17:49:57,496 [set_state], xArm is not ready to move
+2026-10-24 17:49:57,496 sessao fechada
+2026-10-24 18:09:18,688 clean_warn -> code=0
+2026-10-24 18:09:18,688 clean_error -> code=0
+2026-10-24 18:09:28,693 motion_enable tentativa 1 -> code=3
+2026-10-24 18:09:28,693 motion_enable tentativa 2 -> code=0
+2026-10-24 18:09:28,693 motion_enable -> code=0
+2026-10-24 18:09:28,694 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:09:28,694 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:09:28,694 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:09:28,694 set_fence_mode -> code=0
+2026-10-24 18:09:28,695 set_reduced_mode -> code=0
+2026-10-24 18:09:28,695 set_mode -> code=0
+2026-10-24 18:09:28,696 [set_state], xArm is ready to move
+2026-10-24 18:09:28,696 set_state -> code=0
+2026-10-24 18:09:28,696 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:09:28,697 [set_state], xArm is not ready to move
+2026-10-24 18:09:28,697 sessao fechada
+2026-10-24 18:09:28,804 clean_warn -> code=0
+2026-10-24 18:09:28,805 clean_error -> code=0
+2026-10-24 18:09:38,808 motion_enable tentativa 1 -> code=3
+2026-10-24 18:09:38,808 motion_enable tentativa 2 -> code=0
+2026-10-24 18:09:38,808 motion_enable -> code=0
+2026-10-24 18:09:38,808 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:09:38,809 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:09:38,809 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:09:38,810 set_fence_mode -> code=0
+2026-10-24 18:09:38,810 set_reduced_mode -> code=0
+2026-10-24 18:09:38,811 set_mode -> code=0
+2026-10-24 18:09:38,811 [set_state], xArm is ready to move
+2026-10-24 18:09:38,811 set_state -> code=0
+2026-10-24 18:09:38,812 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:09:38,814 [set_state], xArm is not ready to move
+2026-10-24 18:09:38,814 sessao fechada
+2026-10-24 18:09:38,818 clean_warn -> code=0
+2026-10-24 18:09:38,818 clean_error -> code=0
+2026-10-24 18:09:48,822 motion_enable tentativa 1 -> code=3
+2026-10-24 18:09:48,822 motion_enable tentativa 2 -> code=0
+2026-10-24 18:09:48,822 motion_enable -> code=0
+2026-10-24 18:09:48,822 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:09:48,823 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:09:48,823 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:09:48,823 set_fence_mode -> code=0
+2026-10-24 18:09:48,824 set_reduced_mode -> code=0
+2026-10-24 18:09:48,824 set_mode -> code=0
+2026-10-24 18:09:48,824 [set_state], xArm is ready to move
+2026-10-24 18:09:48,825 set_state -> code=0
+2026-10-24 18:09:48,825 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:09:48,825 [set_state], xArm is not ready to move
+2026-10-24 18:09:48,826 sessao fechada
+2026-10-24 18:09:50,834 clean_warn -> code=0
+2026-10-24 18:09:50,834 clean_error -> code=0
+2026-10-24 18:10:00,838 motion_enable tentativa 1 -> code=3
+2026-10-24 18:10:00,838 motion_enable tentativa 2 -> code=0
+2026-10-24 18:10:00,838 motion_enable -> code=0
+2026-10-24 18:10:00,838 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:10:00,839 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:10:00,840 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:10:00,840 set_fence_mode -> code=0
+2026-10-24 18:10:00,840 set_reduced_mode -> code=0
+2026-10-24 18:10:00,840 set_mode -> code=0
+2026-10-24 18:10:00,841 [set_state], xArm is ready to move
+2026-10-24 18:10:00,841 set_state -> code=0
+2026-10-24 18:10:00,841 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:10:00,842 [set_state], xArm is not ready to move
+2026-10-24 18:10:00,842 sessao fechada
+2026-10-24 18:10:00,845 clean_warn -> code=0
+2026-10-24 18:10:00,845 clean_error -> code=0
+2026-10-24 18:10:10,848 motion_enable tentativa 1 -> code=3
+2026-10-24 18:10:10,848 motion_enable tentativa 2 -> code=0
+2026-10-24 18:10:10,848 motion_enable -> code=0
+2026-10-24 18:10:10,849 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:10:10,849 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:10:10,850 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:10:10,850 set_fence_mode -> code=0
+2026-10-24 18:10:10,850 set_reduced_mode -> code=0
+2026-10-24 18:10:10,850 set_mode -> code=0
+2026-10-24 18:10:10,851 [set_state], xArm is ready to move
+2026-10-24 18:10:10,851 set_state -> code=0
+2026-10-24 18:10:10,851 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:10:10,852 [set_state], xArm is not ready to move
+2026-10-24 18:10:10,852 sessao fechada
+2026-10-24 18:10:10,960 clean_warn -> code=0
+2026-10-24 18:10:10,960 clean_error -> code=0
+2026-10-24 18:10:20,966 motion_enable tentativa 1 -> code=3
+2026-10-24 18:10:20,967 motion_enable tentativa 2 -> code=0
+2026-10-24 18:10:20,967 motion_enable -> code=0
+2026-10-24 18:10:20,968 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:10:20,968 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:10:20,969 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:10:20,969 set_fence_mode -> code=0
+2026-10-24 18:10:20,969 set_reduced_mode -> code=0
+2026-10-24 18:10:20,970 set_mode -> code=0
+2026-10-24 18:10:20,970 [set_state], xArm is ready to move
+2026-10-24 18:10:20,970 set_state -> code=0
+2026-10-24 18:10:20,971 sessao aberta: err=0 warn=0 mode=0 state=2
+2026-10-24 18:10:20,971 [set_state], xArm is not ready to move
+2026-10-24 18:10:20,971 sessao fechada
+2026-10-24 18:10:21,852 clean_warn -> code=0
+2026-10-24 18:10:21,852 clean_error -> code=0
+2026-10-24 18:10:21,852 motion_enable tentativa 1 -> code=0
+2026-10-24 18:10:21,852 motion_enable -> code=0
+2026-10-24 18:10:21,852 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:10:21,853 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:10:21,853 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:10:21,853 set_fence_mode -> code=0
+2026-10-24 18:10:21,854 set_reduced_mode -> code=0
+2026-10-24 18:10:21,854 set_mode -> code=0
+2026-10-24 18:10:21,854 [set_state], xArm is ready to move
+2026-10-24 18:10:21,854 set_state -> code=0
+2026-10-24 18:10:21,854 sessao aberta: err=0 warn=0 mode=0 state=2
+2026-10-24 18:10:21,855 [set_state], xArm is not ready to move
+2026-10-24 18:10:21,855 sessao fechada
+2026-10-24 18:10:22,853 clean_warn -> code=0
+2026-10-24 18:10:22,854 clean_error -> code=0
+2026-10-24 18:10:32,859 motion_enable tentativa 1 -> code=3
+2026-10-24 18:10:32,859 motion_enable tentativa 2 -> code=0
+2026-10-24 18:10:32,859 motion_enable -> code=0
+2026-10-24 18:10:32,859 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:10:32,859 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:10:32,860 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:10:32,860 set_fence_mode -> code=0
+2026-10-24 18:10:32,860 set_reduced_mode -> code=0
+2026-10-24 18:10:32,861 set_mode -> code=0
+2026-10-24 18:10:32,861 [set_state], xArm is ready to move
+2026-10-24 18:10:32,861 set_state -> code=0
+2026-10-24 18:10:32,861 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:10:32,862 [set_state], xArm is not ready to move
+2026-10-24 18:10:32,862 sessao fechada
+2026-10-24 18:10:32,865 clean_warn -> code=0
+2026-10-24 18:10:32,865 clean_error -> code=0
+2026-10-24 18:10:42,867 motion_enable tentativa 1 -> code=3
+2026-10-24 18:10:42,867 motion_enable tentativa 2 -> code=0
+2026-10-24 18:10:42,867 motion_enable -> code=0
+2026-10-24 18:10:42,868 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:10:42,868 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:10:42,869 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:10:42,869 set_fence_mode -> code=0
+2026-10-24 18:10:42,870 set_reduced_mode -> code=0
+2026-10-24 18:10:42,870 set_mode -> code=0
+2026-10-24 18:10:42,870 [set_state], xArm is ready to move
+2026-10-24 18:10:42,871 set_state -> code=0
+2026-10-24 18:10:42,871 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:10:42,871 [set_state], xArm is not ready to move
+2026-10-24 18:10:42,871 sessao fechada
+2026-10-24 18:10:42,977 clean_warn -> code=0
+2026-10-24 18:10:42,977 clean_error -> code=0
+2026-10-24 18:10:52,984 motion_enable tentativa 1 -> code=3
+2026-10-24 18:10:52,984 motion_enable tentativa 2 -> code=0
+2026-10-24 18:10:52,984 motion_enable -> code=0
+2026-10-24 18:10:52,984 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:10:52,985 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:10:52,985 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:10:52,985 set_fence_mode -> code=0
+2026-10-24 18:10:52,986 set_reduced_mode -> code=0
+2026-10-24 18:10:52,986 set_mode -> code=0
+2026-10-24 18:10:52,986 [set_state], xArm is ready to move
+2026-10-24 18:10:52,987 set_state -> code=0
+2026-10-24 18:10:52,987 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:10:52,987 [set_state], xArm is not ready to move
+2026-10-24 18:10:52,987 sessao fechada
+2026-10-24 18:10:52,991 clean_warn -> code=0
+2026-10-24 18:10:52,991 clean_error -> code=0
+2026-10-24 18:11:02,994 motion_enable tentativa 1 -> code=3
+2026-10-24 18:11:02,994 motion_enable tentativa 2 -> code=0
+2026-10-24 18:11:02,994 motion_enable -> code=0
+2026-10-24 18:11:02,995 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:11:02,995 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:11:02,995 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:11:02,995 set_fence_mode -> code=0
+2026-10-24 18:11:02,996 set_reduced_mode -> code=0
+2026-10-24 18:11:02,996 set_mode -> code=0
+2026-10-24 18:11:02,996 [set_state], xArm is ready to move
+2026-10-24 18:11:02,996 set_state -> code=0
+2026-10-24 18:11:02,996 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:11:03,848 home: code=1 angles=[-30.785136923938154, 5.342602256476874, 4.690977356074589, 0.0, 8.76316029340789, 0.0, 0.0]
+2026-10-24 18:11:03,848 T3 repeticao 0: erro 0 warn 0, a recuperar
+2026-10-24 18:11:03,849 [clean_error], xArm is not ready to move
+2026-10-24 18:11:03,851 [set_state], xArm is ready to move
+2026-10-24 18:11:04,461 home: code=1 angles=[-33.418107175682344, 5.279118532776379, 1.9698288996597704, 0.0, 8.992228819901191, 0.0, 0.0]
+2026-10-24 18:11:04,461 T3 repeticao 1: erro 0 warn 0, a recuperar
+2026-10-24 18:11:04,462 [clean_error], xArm is not ready to move
+2026-10-24 18:11:04,463 [set_state], xArm is ready to move
+2026-10-24 18:11:05,024 home: code=1 angles=[-33.460620644081054, 5.271612785660166, 1.6479412103552737, 0.0, 9.019387019390393, 0.0, 0.0]
+2026-10-24 18:11:05,024 T3 repeticao 2: erro 0 warn 0, a recuperar
+2026-10-24 18:11:05,024 [clean_error], xArm is not ready to move
+2026-10-24 18:11:05,025 [set_state], xArm is ready to move
+2026-10-24 18:11:05,580 home: code=1 angles=[-33.341445422693845, 5.267773968432788, 1.483846097829806, 0.0, 9.033195302253045, 0.0, 0.0]
+2026-10-24 18:11:05,580 T3 repeticao 3: erro 0 warn 0, a recuperar
+2026-10-24 18:11:05,581 [clean_error], xArm is not ready to move
+2026-10-24 18:11:05,582 [set_state], xArm is ready to move
+2026-10-24 18:11:06,136 home: code=1 angles=[-33.278763839906524, 5.266914531740093, 1.4445984888633445, 0.0, 9.036461161685292, 0.0, 0.0]
+2026-10-24 18:11:06,136 T3 repeticao 4: erro 0 warn 0, a recuperar
+2026-10-24 18:11:06,136 [clean_error], xArm is not ready to move
+2026-10-24 18:11:06,137 [set_state], xArm is ready to move
+2026-10-24 18:11:06,692 home: code=1 angles=[-33.153572561670444, 5.265883207708857, 1.4005380344177842, 0.0, 9.040185387353642, 0.0, 0.0]
+2026-10-24 18:11:06,693 T3 repeticao 5: erro 0 warn 0, a recuperar
+2026-10-24 18:11:06,693 [clean_error], xArm is not ready to move
+2026-10-24 18:11:06,694 [set_state], xArm is ready to move
+2026-10-24 18:11:07,251 home: code=1 angles=[-33.153572561670444, 5.265883207708857, 1.4005380344177842, 0.0, 9.040185387353642, 0.0, 0.0]
+2026-10-24 18:11:07,251 T3 repeticao 6: erro 0 warn 0, a recuperar
+2026-10-24 18:11:07,251 [clean_error], xArm is not ready to move
+2026-10-24 18:11:07,252 [set_state], xArm is ready to move
+2026-10-24 18:11:07,816 home: code=1 angles=[-33.09106286622167, 5.265539433031778, 1.385755723303409, 0.0, 9.04144589450293, 0.0, 0.0]
+2026-10-24 18:11:07,816 T3 repeticao 7: erro 0 warn 0, a recuperar
+2026-10-24 18:11:07,816 [clean_error], xArm is not ready to move
+2026-10-24 18:11:07,817 [set_state], xArm is ready to move
+2026-10-24 18:11:08,376 home: code=1 angles=[-33.028438579213876, 5.265252954134214, 1.3734371307080964, 0.0, 9.042477218534165, 0.0, 0.0]
+2026-10-24 18:11:08,376 T3 repeticao 8: erro 0 warn 0, a recuperar
+2026-10-24 18:11:08,376 [clean_error], xArm is not ready to move
+2026-10-24 18:11:08,377 [set_state], xArm is ready to move
+2026-10-24 18:11:08,932 home: code=1 angles=[-32.965814292206076, 5.264966475236648, 1.3630092988367155, 0.0, 9.043336655226861, 0.0, 0.0]
+2026-10-24 18:11:08,933 T3 repeticao 9: erro 0 warn 0, a recuperar
+2026-10-24 18:11:08,933 [clean_error], xArm is not ready to move
+2026-10-24 18:11:08,934 [set_state], xArm is ready to move
+2026-10-24 18:11:09,675 ControllerError, code: 22
+2026-10-24 18:11:09,695 antes do T9: erro 22 warn 0, a recuperar
+2026-10-24 18:11:09,697 [set_state], xArm is ready to move
+2026-10-24 18:11:09,875 ControllerError had clean
+2026-10-24 18:11:10,256 T9: set_position fora da fronteira -> code=-9
+2026-10-24 18:11:10,257 [clean_error], xArm is not ready to move
+2026-10-24 18:11:10,258 sessao fechada
+2026-10-24 18:11:11,077 clean_warn -> code=0
+2026-10-24 18:11:11,078 clean_error -> code=0
+2026-10-24 18:11:21,085 motion_enable tentativa 1 -> code=3
+2026-10-24 18:11:21,085 motion_enable tentativa 2 -> code=0
+2026-10-24 18:11:21,085 motion_enable -> code=0
+2026-10-24 18:11:21,085 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:11:21,086 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:11:21,086 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:11:21,086 set_fence_mode -> code=0
+2026-10-24 18:11:21,086 set_reduced_mode -> code=0
+2026-10-24 18:11:21,087 set_mode -> code=0
+2026-10-24 18:11:21,087 [set_state], xArm is ready to move
+2026-10-24 18:11:21,087 set_state -> code=0
+2026-10-24 18:11:21,087 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:11:21,088 [set_state], xArm is not ready to move
+2026-10-24 18:11:21,088 sessao fechada
+2026-10-24 18:14:14,794 clean_warn -> code=0
+2026-10-24 18:14:14,794 clean_error -> code=0
+2026-10-24 18:14:24,797 motion_enable tentativa 1 -> code=3
+2026-10-24 18:14:24,797 motion_enable tentativa 2 -> code=0
+2026-10-24 18:14:24,797 motion_enable -> code=0
+2026-10-24 18:14:24,798 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:14:24,798 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:14:24,799 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:14:24,799 set_fence_mode -> code=0
+2026-10-24 18:14:24,799 set_reduced_mode -> code=0
+2026-10-24 18:14:24,799 set_mode -> code=0
+2026-10-24 18:14:24,800 [set_state], xArm is ready to move
+2026-10-24 18:14:24,800 set_state -> code=0
+2026-10-24 18:14:24,800 sessao aberta: err=0 warn=0 mode=0 state=2
+2026-10-24 18:14:25,061 T3 ida 0: erro 0 warn 0, a recuperar
+2026-10-24 18:14:25,061 [clean_error], xArm is not ready to move
+2026-10-24 18:14:25,062 [set_state], xArm is ready to move
+2026-10-24 18:14:25,622 home: code=-9 angles=[-32.801776475460116, 5.27356084216361, 1.346164339659869, 0.01357909974460051, 9.00019293325351, -0.07087487925768284, 0.0]
+2026-10-24 18:14:25,622 T3 repeticao 0: erro 0 warn 0, a recuperar
+2026-10-24 18:14:25,623 [clean_error], xArm is not ready to move
+2026-10-24 18:14:25,624 [set_state], xArm is ready to move
+2026-10-24 18:14:26,185 T3 ida 1: erro 0 warn 0, a recuperar
+2026-10-24 18:14:26,185 [clean_error], xArm is not ready to move
+2026-10-24 18:14:26,186 [set_state], xArm is ready to move
+2026-10-24 18:14:26,747 home: code=-9 angles=[-32.784988812062785, 5.260841179111706, 1.3428984802276236, 0.013521803965087427, 8.97842053703854, -0.1332126873679164, 0.0]
+2026-10-24 18:14:26,747 T3 repeticao 1: erro 0 warn 0, a recuperar
+2026-10-24 18:14:26,748 [clean_error], xArm is not ready to move
+2026-10-24 18:14:26,749 [set_state], xArm is ready to move
+2026-10-24 18:14:27,309 T3 ida 2: erro 0 warn 0, a recuperar
+2026-10-24 18:14:27,310 [clean_error], xArm is not ready to move
+2026-10-24 18:14:27,312 [set_state], xArm is ready to move
+2026-10-24 18:14:27,866 home: code=-9 angles=[-32.7031704389181, 5.237636388408907, 1.3369970149377761, 0.013464508185574346, 8.938829153395, -0.19537860813961072, 0.0]
+2026-10-24 18:14:27,866 T3 repeticao 2: erro 0 warn 0, a recuperar
+2026-10-24 18:14:27,866 [clean_error], xArm is not ready to move
+2026-10-24 18:14:27,867 [set_state], xArm is ready to move
+2026-10-24 18:14:28,424 T3 ida 3: erro 0 warn 0, a recuperar
+2026-10-24 18:14:28,424 [clean_error], xArm is not ready to move
+2026-10-24 18:14:28,425 [set_state], xArm is ready to move
+2026-10-24 18:14:28,979 home: code=-9 angles=[-32.57780727334348, 5.208988498652366, 1.3296631551601015, 0.013407212406061263, 8.88995585347034, -0.24780424639408105, 0.0]
+2026-10-24 18:14:28,979 T3 repeticao 3: erro 0 warn 0, a recuperar
+2026-10-24 18:14:28,980 [clean_error], xArm is not ready to move
+2026-10-24 18:14:28,981 [set_state], xArm is ready to move
+2026-10-24 18:14:29,538 T3 ida 4: erro 0 warn 0, a recuperar
+2026-10-24 18:14:29,539 [clean_error], xArm is not ready to move
+2026-10-24 18:14:29,540 [set_state], xArm is ready to move
+2026-10-24 18:14:30,096 home: code=-9 angles=[-32.45273058666642, 5.187158806657882, 1.3241054645473325, 0.013349916626548181, 8.852713596786836, -0.25811748670643586, 0.0]
+2026-10-24 18:14:30,096 T3 repeticao 4: erro 0 warn 0, a recuperar
+2026-10-24 18:14:30,097 [clean_error], xArm is not ready to move
+2026-10-24 18:14:30,099 [set_state], xArm is ready to move
+2026-10-24 18:14:30,656 T3 ida 5: erro 0 warn 0, a recuperar
+2026-10-24 18:14:30,657 [clean_error], xArm is not ready to move
+2026-10-24 18:14:30,658 [set_state], xArm is ready to move
+2026-10-24 18:14:31,203 ControllerError, code: 22
+2026-10-24 18:14:31,212 home: code=1 angles=[-32.26508690876107, 5.158510916901341, 1.3167716047696578, 0.0132926208470351, 8.803783001082666, -0.2483199084096988, 0.0]
+2026-10-24 18:14:31,212 T3 repeticao 5: erro 22 warn 0, a recuperar
+2026-10-24 18:14:31,213 [set_state], xArm is ready to move
+2026-10-24 18:14:31,402 ControllerError had clean
+2026-10-24 18:14:31,772 T3 ida 6: erro 0 warn 0, a recuperar
+2026-10-24 18:14:31,773 [clean_error], xArm is not ready to move
+2026-10-24 18:14:31,774 [set_state], xArm is ready to move
+2026-10-24 18:14:32,333 home: code=-9 angles=[-32.2025772133123, 5.151692719139284, 1.3150527313842655, 0.013235325067522017, 8.79215195784151, -0.22820908980060692, 0.0]
+2026-10-24 18:14:32,333 T3 repeticao 6: erro 0 warn 0, a recuperar
+2026-10-24 18:14:32,334 [clean_error], xArm is not ready to move
+2026-10-24 18:14:32,335 [set_state], xArm is ready to move
+2026-10-24 18:14:32,889 T3 ida 7: erro 0 warn 0, a recuperar
+2026-10-24 18:14:32,890 [clean_error], xArm is not ready to move
+2026-10-24 18:14:32,891 [set_state], xArm is ready to move
+2026-10-24 18:14:33,447 home: code=-9 angles=[-32.07618272370644, 5.13582178821416, 1.3109847310388365, 0.013235325067522017, 8.765165645690848, -0.20007686205968347, 0.0]
+2026-10-24 18:14:33,447 T3 repeticao 7: erro 0 warn 0, a recuperar
+2026-10-24 18:14:33,448 [clean_error], xArm is not ready to move
+2026-10-24 18:14:33,449 [set_state], xArm is ready to move
+2026-10-24 18:14:34,003 ControllerError, code: 22
+2026-10-24 18:14:34,006 T3 ida 8: erro 22 warn 0, a recuperar
+2026-10-24 18:14:34,008 [set_state], xArm is ready to move
+2026-10-24 18:14:34,203 ControllerError had clean
+2026-10-24 18:14:34,561 home: code=-9 angles=[-31.952194656840135, 5.121211364438325, 1.3072605053704862, 0.013178029288008935, 8.740184685823142, -0.16690260572160878, 0.0]
+2026-10-24 18:14:34,561 T3 repeticao 8: erro 0 warn 0, a recuperar
+2026-10-24 18:14:34,562 [clean_error], xArm is not ready to move
+2026-10-24 18:14:34,563 [set_state], xArm is ready to move
+2026-10-24 18:14:35,123 T3 ida 9: erro 0 warn 0, a recuperar
+2026-10-24 18:14:35,123 [clean_error], xArm is not ready to move
+2026-10-24 18:14:35,125 [set_state], xArm is ready to move
+2026-10-24 18:14:35,679 home: code=-9 angles=[-31.82688878704502, 5.10700201111908, 1.303650871261162, 0.013120733508495852, 8.715891275309597, -0.12977494059713146, 0.0]
+2026-10-24 18:14:35,679 T3 repeticao 9: erro 0 warn 0, a recuperar
+2026-10-24 18:14:35,680 [clean_error], xArm is not ready to move
+2026-10-24 18:14:35,681 [set_state], xArm is ready to move
+2026-10-24 18:14:36,404 ControllerError, code: 22
+2026-10-24 18:14:36,444 antes do T9: erro 22 warn 0, a recuperar
+2026-10-24 18:14:36,446 [set_state], xArm is ready to move
+2026-10-24 18:14:36,605 ControllerError had clean
+2026-10-24 18:14:37,004 T9: set_position fora da fronteira -> code=-9
+2026-10-24 18:14:37,005 ControllerError, code: 22
+2026-10-24 18:14:37,006 sessao fechada
+2026-10-24 18:14:37,111 clean_warn -> code=0
+2026-10-24 18:14:37,112 clean_error -> code=0
+2026-10-24 18:14:47,114 motion_enable tentativa 1 -> code=3
+2026-10-24 18:14:47,114 motion_enable tentativa 2 -> code=0
+2026-10-24 18:14:47,114 motion_enable -> code=0
+2026-10-24 18:14:47,115 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:14:47,115 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:14:47,116 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:14:47,116 set_fence_mode -> code=0
+2026-10-24 18:14:47,116 set_reduced_mode -> code=0
+2026-10-24 18:14:47,116 set_mode -> code=0
+2026-10-24 18:14:47,117 [set_state], xArm is ready to move
+2026-10-24 18:14:47,117 set_state -> code=0
+2026-10-24 18:14:47,117 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:14:47,118 [set_state], xArm is not ready to move
+2026-10-24 18:14:47,118 sessao fechada
+2026-10-24 18:18:19,890 clean_warn -> code=0
+2026-10-24 18:18:19,890 [clean_error], xArm is ready to move
+2026-10-24 18:18:19,890 clean_error -> code=0
+2026-10-24 18:18:29,896 motion_enable tentativa 1 -> code=3
+2026-10-24 18:18:29,896 motion_enable tentativa 2 -> code=0
+2026-10-24 18:18:29,896 motion_enable -> code=0
+2026-10-24 18:18:29,896 set_collision_tool_model -> code=0
+2026-10-24 18:18:29,897 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:18:29,897 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:18:29,897 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:18:29,897 set_fence_mode -> code=0
+2026-10-24 18:18:29,898 set_reduced_mode -> code=0
+2026-10-24 18:18:29,898 set_mode -> code=0
+2026-10-24 18:18:29,899 set_state -> code=0
+2026-10-24 18:18:29,899 sessao aberta: err=0 warn=0 mode=0 state=2
+2026-10-24 18:18:34,592 home: code=0 angles=[-0.765586205853806, 0.0, 0.0, 0.0, 0.0, -0.765586205853806, 0.0]
+2026-10-24 18:18:38,288 home: code=0 angles=[-2.607359038301837, 0.0, 0.0, 0.0, 0.0, -2.607359038301837, 0.0]
+2026-10-24 18:18:41,047 home: code=0 angles=[-1.4070697532822758, 0.0, 0.0, 0.0, 0.0, -1.4070697532822758, 0.0]
+2026-10-24 18:18:42,757 home: code=0 angles=[-0.12289944705556159, 0.0, 0.0, 0.0, 0.0, -0.12289944705556159, 0.0]
+2026-10-24 18:18:43,492 home: code=0 angles=[-2.299050448741941, 0.0, 0.0, 0.0, 0.0, -2.299050448741941, 0.0]
+2026-10-24 18:18:44,245 home: code=0 angles=[1.254204613541372, 0.0, 0.0, 0.0, 0.0, 1.254204613541372, 0.0]
+2026-10-24 18:18:45,960 home: code=0 angles=[0.026527945914557115, 0.0, 0.0, 0.0, 0.0, 0.026527945914557115, 0.0]
+2026-10-24 18:18:48,676 home: code=0 angles=[1.8075099562992079, 0.0, 0.0, 0.0, 0.0, 1.8075099562992079, 0.0]
+2026-10-24 18:18:52,400 home: code=0 angles=[0.6865753259052655, 0.0, 0.0, 0.0, 0.0, 0.6865753259052655, 0.0]
+2026-10-24 18:18:57,093 home: code=0 angles=[2.5266865807474175, 0.0, 0.0, 0.0, 0.0, 2.5266865807474175, 0.0]
+2026-10-24 18:19:03,711 ControllerError, code: 24
+2026-10-24 18:19:03,737 T9: set_position fora da fronteira -> code=1
+2026-10-24 18:19:03,739 sessao fechada
+2026-10-24 18:19:03,849 clean_warn -> code=0
+2026-10-24 18:19:03,849 clean_error -> code=0
+2026-10-24 18:19:13,852 motion_enable tentativa 1 -> code=3
+2026-10-24 18:19:13,852 motion_enable tentativa 2 -> code=0
+2026-10-24 18:19:13,852 motion_enable -> code=0
+2026-10-24 18:19:13,852 set_collision_tool_model -> code=0
+2026-10-24 18:19:13,853 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:19:13,853 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:19:13,853 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:19:13,854 set_fence_mode -> code=0
+2026-10-24 18:19:13,854 set_reduced_mode -> code=0
+2026-10-24 18:19:13,854 set_mode -> code=0
+2026-10-24 18:19:13,855 [set_state], xArm is ready to move
+2026-10-24 18:19:13,855 set_state -> code=0
+2026-10-24 18:19:13,855 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:19:13,855 [set_state], xArm is not ready to move
+2026-10-24 18:19:13,855 sessao fechada
+2026-10-24 18:23:41,139 clean_warn -> code=0
+2026-10-24 18:23:41,140 [clean_error], xArm is ready to move
+2026-10-24 18:23:41,140 clean_error -> code=0
+2026-10-24 18:23:41,140 motion_enable tentativa 1 -> code=0
+2026-10-24 18:23:41,140 motion_enable -> code=0
+2026-10-24 18:23:41,140 set_collision_tool_model -> code=0
+2026-10-24 18:23:41,140 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:23:41,140 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:23:41,141 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:23:41,141 set_fence_mode -> code=0
+2026-10-24 18:23:41,141 set_reduced_mode -> code=0
+2026-10-24 18:23:41,141 set_mode -> code=0
+2026-10-24 18:23:41,141 set_state -> code=0
+2026-10-24 18:23:41,141 sessao aberta: err=0 warn=0 mode=0 state=2
+2026-10-24 18:23:45,886 home: code=0 angles=[-1.165797225752686, 0.0, 0.0, 0.0, 0.0, -1.165797225752686, 0.0]
+2026-10-24 18:23:50,587 home: code=0 angles=[-0.08932412026089534, 0.0, 0.0, 0.0, 0.0, -0.08932412026089534, 0.0]
+2026-10-24 18:23:54,310 home: code=0 angles=[-2.368206454614232, 0.0, 0.0, 0.0, 0.0, -2.368206454614232, 0.0]
+2026-10-24 18:23:57,033 home: code=0 angles=[-0.46088725040323425, 0.0, 0.0, 0.0, 0.0, -0.46088725040323425, 0.0]
+2026-10-24 18:23:58,793 home: code=0 angles=[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2026-10-24 18:24:00,542 home: code=0 angles=[2.1383357872077453, 0.0, 0.0, 0.0, 0.0, 2.1383357872077453, 0.0]
+2026-10-24 18:24:03,239 home: code=0 angles=[0.8475764663370269, 0.0, 0.0, 0.0, 0.0, 0.8475764663370269, 0.0]
+2026-10-24 18:24:06,987 home: code=0 angles=[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2026-10-24 18:24:11,695 home: code=0 angles=[1.4063822039281186, 0.0, 0.0, 0.0, 0.0, 1.4063822039281186, 0.0]
+2026-10-24 18:24:17,390 home: code=0 angles=[0.026470650135044033, 0.0, 0.0, 0.0, 0.0, 0.026470650135044033, 0.0]
+2026-10-24 18:24:26,634 T9: set_position fora da fronteira -> code=-9
+2026-10-24 18:24:26,635 [clean_error], xArm is not ready to move
+2026-10-24 18:24:26,636 sessao fechada
+2026-10-24 18:24:26,639 clean_warn -> code=0
+2026-10-24 18:24:26,639 clean_error -> code=0
+2026-10-24 18:24:36,647 motion_enable tentativa 1 -> code=3
+2026-10-24 18:24:36,647 motion_enable tentativa 2 -> code=0
+2026-10-24 18:24:36,647 motion_enable -> code=0
+2026-10-24 18:24:36,648 set_collision_tool_model -> code=0
+2026-10-24 18:24:36,648 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:24:36,649 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:24:36,649 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:24:36,649 set_fence_mode -> code=0
+2026-10-24 18:24:36,650 set_reduced_mode -> code=0
+2026-10-24 18:24:36,650 set_mode -> code=0
+2026-10-24 18:24:36,651 [set_state], xArm is ready to move
+2026-10-24 18:24:36,651 set_state -> code=0
+2026-10-24 18:24:36,651 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:24:36,651 [set_state], xArm is not ready to move
+2026-10-24 18:24:36,651 sessao fechada
+2026-10-24 18:26:44,687 clean_warn -> code=0
+2026-10-24 18:26:44,688 [clean_error], xArm is ready to move
+2026-10-24 18:26:44,688 clean_error -> code=0
+2026-10-24 18:26:54,694 motion_enable tentativa 1 -> code=3
+2026-10-24 18:26:54,694 motion_enable tentativa 2 -> code=0
+2026-10-24 18:26:54,694 motion_enable -> code=0
+2026-10-24 18:26:54,695 set_collision_tool_model -> code=0
+2026-10-24 18:26:54,695 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:26:54,695 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:26:54,696 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:26:54,696 set_fence_mode -> code=0
+2026-10-24 18:26:54,696 set_reduced_mode -> code=0
+2026-10-24 18:26:54,697 set_mode -> code=0
+2026-10-24 18:26:54,697 set_state -> code=0
+2026-10-24 18:26:54,697 sessao aberta: err=0 warn=0 mode=0 state=2
+2026-10-24 18:26:59,385 home: code=0 angles=[-0.765586205853806, 0.0, 0.0, 0.0, 0.0, -0.765586205853806, 0.0]
+2026-10-24 18:27:04,112 home: code=0 angles=[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2026-10-24 18:27:07,845 home: code=0 angles=[-1.0866717542451194, 0.0, 0.0, 0.0, 0.0, -1.0866717542451194, 0.0]
+2026-10-24 18:27:10,560 home: code=0 angles=[-0.08961059915846076, 0.0, 0.0, 0.0, 0.0, -0.08961059915846076, 0.0]
+2026-10-24 18:27:12,309 home: code=0 angles=[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2026-10-24 18:27:14,062 home: code=0 angles=[1.575691232389277, 0.0, 0.0, 0.0, 0.0, 1.575691232389277, 0.0]
+2026-10-24 18:27:16,761 home: code=0 angles=[0.12289944705556159, 0.0, 0.0, 0.0, 0.0, 0.12289944705556159, 0.0]
+2026-10-24 18:27:20,521 home: code=0 angles=[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2026-10-24 18:27:25,251 home: code=0 angles=[1.5664666118876707, 0.0, 0.0, 0.0, 0.0, 1.5664666118876707, 0.0]
+2026-10-24 18:27:31,019 home: code=0 angles=[0.32498166139820295, 0.0, 0.0, 0.0, 0.0, 0.32498166139820295, 0.0]
+2026-10-24 18:27:38,279 home: code=0 angles=[0.9241809235460178, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2026-10-24 18:27:40,300 T9a: set_position fora da fronteira -> code=-9
+2026-10-24 18:27:40,300 depois do T9a: erro 0 warn 0, a recuperar
+2026-10-24 18:27:40,301 [clean_error], xArm is not ready to move
+2026-10-24 18:27:40,303 [set_state], xArm is ready to move
+2026-10-24 18:27:41,494 home: code=0 angles=[-0.0, 1.3985899779143396, 1.6500038584177448, -0.0, 0.25141388050340524, -0.0, 0.0]
+2026-10-24 18:27:41,494 move_to recusado: alvo (500, 0, 154.524) fora de [400, -400, 400, -400, 450, 50]
+2026-10-24 18:27:41,495 [set_state], xArm is not ready to move
+2026-10-24 18:27:41,495 sessao fechada
+2026-10-24 18:27:41,603 clean_warn -> code=0
+2026-10-24 18:27:41,604 clean_error -> code=0
+2026-10-24 18:27:51,607 motion_enable tentativa 1 -> code=3
+2026-10-24 18:27:51,607 motion_enable tentativa 2 -> code=0
+2026-10-24 18:27:51,607 motion_enable -> code=0
+2026-10-24 18:27:51,607 set_collision_tool_model -> code=0
+2026-10-24 18:27:51,608 set_reduced_max_joint_speed -> code=0
+2026-10-24 18:27:51,608 set_reduced_max_tcp_speed -> code=0
+2026-10-24 18:27:51,608 set_reduced_tcp_boundary -> code=0
+2026-10-24 18:27:51,609 set_fence_mode -> code=0
+2026-10-24 18:27:51,609 set_reduced_mode -> code=0
+2026-10-24 18:27:51,609 set_mode -> code=0
+2026-10-24 18:27:51,610 [set_state], xArm is ready to move
+2026-10-24 18:27:51,610 set_state -> code=0
+2026-10-24 18:27:51,610 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-10-24 18:27:51,610 [set_state], xArm is not ready to move
+2026-10-24 18:27:51,611 sessao fechada
