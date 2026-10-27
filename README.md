@@ -26,7 +26,7 @@ docker run -it --platform linux/amd64 --name uf_software \
 Das vezes seguintes: `docker start -ai uf_software` e voltar a correr o `xarm_start.sh`.
 Interface web: http://127.0.0.1:18333
 
-## 3. Configuracao
+## 3. Configuração
 
 Todos os parametros estao em `config/robot.yaml`. Para mudar entre simulador e robo real
 muda-se apenas `ip` (127.0.0.1 = simulador) e `check_joint_limit`.
