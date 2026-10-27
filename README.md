@@ -1,6 +1,6 @@
 # Robotica 2026/27 - Grupo 2 (PL3, bancada 2)
 
-Projeto Python dos trabalhos laboratoriais (LW0-LW4 e Desafio Final) com o UFACTORY Lite 6.
+Projeto Python dos trabalhos laboratoriais com o UFACTORY Lite 6.
 
 ## 1. Ambiente (macOS, Python >= 3.10)
 
