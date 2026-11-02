@@ -43,7 +43,7 @@ cp .env.example .env
 Abrir o ficheiro `.env` e pôr `ROS_DOMAIN_ID=2` (número do grupo). Depois:
 
 ```bash
-./lab.sh build        # demora; só da primeira vez
+./lab.sh build        
 ```
 
 ### A4. Simulador de firmware da UFACTORY — [Mac]
