@@ -7,8 +7,7 @@ Testado em macOS (Apple M3) com Docker Desktop.
 > - **[Mac]** — no Terminal do Mac (a linha começa por `utilizador@Mac ... %`)
 > - **[Contentor]** — dentro do contentor ROS (a linha começa por `ros@lab0:~/dev_ws$`)
 > - **[Simulador]** — dentro do contentor do simulador (a linha começa por `root@...`)
->
-> Um **separador novo** abre-se com **Cmd+T** e começa sempre no Mac.
+
 
 ---
 
