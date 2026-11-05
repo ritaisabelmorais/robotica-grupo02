@@ -137,6 +137,114 @@ Os registos ficam em `logs/session.log`.
 
 ---
 
+## Windows
+
+Testado em Windows 11 com PowerShell, Python 3.14.5 e Docker Desktop (motor WSL 2). Só está aqui o que foi corrido neste sistema: o `pytest` e os testes 1, 3 e 8.
+
+> - **[Windows]** — no PowerShell (a linha começa por `PS C:\...>`)
+> - **[Contentor]** e **[Simulador]** — como no resto deste README
+
+Antes de começar: Docker Desktop aberto, com **Engine running**. Os scripts `.ps1` correram com a política de execução `RemoteSigned`.
+
+### W1. Projeto e ambiente Python — [Windows]
+
+```powershell
+cd ~/Documents
+git clone https://github.com/ritaisabelmorais/robotica-grupo02.git
+python -m venv $HOME/venvs/robotica
+& "$HOME\venvs\robotica\Scripts\Activate.ps1"
+cd ~/Documents/robotica-grupo02
+pip install -r requirements.txt
+python -m pytest                             # testes sem robô (3 passed)
+```
+
+### W2. Contentor ROS 2 da UC — [Windows]
+
+Usa o ramo `windows` e fica numa pasta à parte deste projeto.
+
+```powershell
+cd ~/Documents
+git clone -b windows https://github.com/cazevedo/robotica.git
+cd robotica
+cp .env.example .env
+notepad .env
+```
+
+No ficheiro `.env`, pôr `ROS_DOMAIN_ID=2` (número do grupo). Depois:
+
+```powershell
+.\lab.ps1 build
+```
+
+Demorou cerca de 30 minutos. **Atenção:** se já houver outra cópia deste contentor no mesmo PC (por exemplo, a das aulas), o build substitui a imagem `robotics-lab0:jazzy` que ambas usam, e a imagem anterior deixa de existir.
+
+### W3. Testes ROS 2 (testes 1 e 3)
+
+Antes de começar: simulador de firmware desligado (`docker stop uf_software`).
+
+**Janela 1 — [Windows]:** ligar o contentor e entrar nele
+
+```powershell
+cd ~/Documents/robotica
+.\lab.ps1 up
+.\lab.ps1 doctor                             # All checks passed
+.\lab.ps1 shell
+```
+
+O RViz abre como janela normal do Windows, através do WSLg (`display mode wslg` no `doctor`). Não é preciso abrir `localhost:6080`.
+
+**Teste 1** (precisa de duas janelas):
+
+- **Janela 1 — [Contentor]:** `lab test 1` (fica a publicar "Hello World")
+- **Janela 2 — [Windows]:** `cd ~/Documents/robotica; .\lab.ps1 shell`
+  depois **[Contentor]:** `lab test 1b` (deve mostrar `I heard: [Hello World: N]`)
+- Parar com **Ctrl+C** nas duas.
+
+**Teste 3 — [Contentor]:** `lab test 3` (abre o RViz com o Lite 6 e o painel MotionPlanning). Parar com **Ctrl+C**.
+
+**Fechar tudo:** `exit` nas duas janelas do [Contentor] e `.\lab.ps1 down` no [Windows].
+
+### W4. Simulador de firmware e teste 8
+
+Antes de começar: contentor ROS desligado (`.\lab.ps1 down`).
+
+**Janela 1 — [Windows]:** da primeira vez, criar o simulador (tudo numa só linha):
+
+```powershell
+docker run -it --platform linux/amd64 --name uf_software -p 18333:18333 -p 502:502 -p 503:503 -p 504:504 -p 30000:30000 -p 30001:30001 -p 30002:30002 -p 30003:30003 danielwang123321/uf-ubuntu-docker
+```
+
+Das vezes seguintes:
+
+```powershell
+docker start -ai uf_software
+```
+
+**[Simulador]:** arrancar o firmware do Lite 6 e deixar esta janela aberta, sem fazer `exit`
+
+```bash
+/xarm_scripts/xarm_start.sh 6 9
+```
+
+Volta logo ao início da linha, com `No Sockets found` e `There is a screen on`. É normal: o firmware fica a correr em segundo plano.
+
+**Browser:** como na Parte C. Abrir http://127.0.0.1:18333, escolher **No End Effector** e manter **Initial Position** premido até as juntas chegarem a 0.
+
+**Janela 2 — [Windows]:** correr o projeto
+
+```powershell
+cd ~/Documents/robotica-grupo02
+& "$HOME\venvs\robotica\Scripts\Activate.ps1"
+python -m scripts.check_connection           # liga-se e vai a home (home code: 0)
+python -m scripts.test8_fk                   # teste 8 (Pose A: x, y, z = 87,0 / 0 / 154,2 mm)
+```
+
+O `[set_state], xArm is not ready to move` no fim do `check_connection` é normal: o `safe_session` para o robô ao terminar.
+
+**Fechar:** `docker stop uf_software` no [Windows].
+
+---
+
 ## Configuração
 
 Todos os parâmetros estão em `config/robot.yaml`; nenhum IP está no código.
