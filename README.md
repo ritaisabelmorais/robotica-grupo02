@@ -1,6 +1,6 @@
 # Robótica 2026/27 — Grupo 2 (PL3, bancada 2)
 
-Projeto Python dos trabalhos laboratoriais com o UFACTORY Lite 6. Por agora inclui o LW0 (parte 2), o LW1 e o LW2.
+Projeto Python dos trabalhos laboratoriais com o UFACTORY Lite 6. Inclui o LW0 (parte 1 em `lw0_parte1/`, parte 2), o LW1 e o LW2.
 Testado em macOS (Apple M3) com Docker Desktop.
 
 > **Como ler este README:** cada comando diz **onde** se escreve.
