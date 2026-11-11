@@ -11,8 +11,11 @@ def test_config_carrega():
 
 
 def test_ip_fora_do_codigo():
-    for f in pathlib.Path(".").rglob("*.py"):
-        assert "192." + "168" not in f.read_text(), f
+    # codigo do projeto; lw0_parte1/ fica de fora: sao os scripts originais
+    # da parte 1, corridos no IDE do Studio, antes da regra do config
+    for pasta in ("lite6", "scripts", "tests", "lw1", "lw2"):
+        for f in pathlib.Path(pasta).rglob("*.py"):
+            assert "192." + "168" not in f.read_text(), f
 
 
 def test_fronteira():

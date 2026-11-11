@@ -714,3 +714,20 @@
 2026-10-24 18:27:51,610 sessao aberta: err=0 warn=0 mode=0 state=0
 2026-10-24 18:27:51,610 [set_state], xArm is not ready to move
 2026-10-24 18:27:51,611 sessao fechada
+2026-11-02 20:56:58,140 clean_warn -> code=0
+2026-11-02 20:56:58,140 clean_error -> code=0
+2026-11-02 20:56:58,140 motion_enable tentativa 1 -> code=0
+2026-11-02 20:56:58,143 motion_enable -> code=0
+2026-11-02 20:56:58,143 set_collision_tool_model -> code=0
+2026-11-02 20:56:58,143 set_reduced_max_joint_speed -> code=0
+2026-11-02 20:56:58,144 set_reduced_max_tcp_speed -> code=0
+2026-11-02 20:56:58,144 set_reduced_tcp_boundary -> code=0
+2026-11-02 20:56:58,144 set_fence_mode -> code=0
+2026-11-02 20:56:58,144 set_reduced_mode -> code=0
+2026-11-02 20:56:58,144 set_mode -> code=0
+2026-11-02 20:56:58,145 [set_state], xArm is ready to move
+2026-11-02 20:56:58,145 set_state -> code=0
+2026-11-02 20:56:58,145 sessao aberta: err=0 warn=0 mode=0 state=0
+2026-11-02 20:56:58,616 home: code=0 angles=[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2026-11-02 20:56:58,617 [set_state], xArm is not ready to move
+2026-11-02 20:56:58,617 sessao fechada
