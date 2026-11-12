@@ -146,6 +146,35 @@ Os registos ficam em `logs/session.log`.
 
 ---
 
+## Parte D — LW1 e LW2 (cinemática direta e inversa)
+
+O código destes dois trabalhos corre como nós de ROS 2 dentro do contentor da UC (Parte B).
+
+1. **[Mac]** copiar os ficheiros deste repositório para o workspace do contentor:
+   - `lw1/forward_kinematics.py` → `robotica/src/lite6_kinematics/lite6_kinematics/`
+   - `lw2/inverse_kinematics.py` → `robotica/src/lite6_ik/lite6_ik/`
+2. **[Contentor]** compilar com `lab build` e abrir uma shell nova (`./lab.sh shell`).
+3. **Separador 1 — [Contentor]:** `lab sim` (Gazebo; não mexer mais neste separador).
+
+**LW1 — cinemática direta**
+
+- **Separador 2 — [Contentor]:** `ros2 run lite6_kinematics fk_node`
+- **Separador 3 — [Contentor]:** `ros2 run lite6_kinematics fk_check --ros-args -p robot:=sim`
+
+**LW2 — cinemática inversa (algébrica)**
+
+- **Separador 2 — [Contentor]:** `ros2 run lite6_ik ik_node`
+- **Separador 3 — [Contentor]:** `ros2 run lite6_ik ik_check --ros-args -p robot:=sim`
+- Estudo da Parte E: `ros2 run lite6_ik ik_study`
+
+No robô real: em vez de `lab sim`, usar `lab gazebo off` e `lab real <IP>`, esperar por
+"Configured and activated lite6_traj_controller" e correr os `*_check` com `robot:=real`.
+
+Os resultados (CSV) ficam em `~/shared/` dentro do contentor e estão copiados em
+`lw1/resultados/` e `lw2/resultados/`. Os vídeos estão em `lw1/` e `lw2/`.
+
+---
+
 ## Windows
 
 Testado em Windows 11 com PowerShell, Python 3.14.5 e Docker Desktop (motor WSL 2). Só está aqui o que foi corrido neste sistema: o `pytest` e os testes 1, 3 e 8.
