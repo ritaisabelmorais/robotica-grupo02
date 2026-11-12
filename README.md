@@ -8,6 +8,15 @@ Testado em macOS (Apple M3) com Docker Desktop.
 > - **[Contentor]** — dentro do contentor ROS (a linha começa por `ros@lab0:~/dev_ws$`)
 > - **[Simulador]** — dentro do contentor do simulador (a linha começa por `root@...`)
 
+## Estrutura do repositório
+
+| Trabalho | Onde está |
+|---|---|
+| LW0 parte 1 | `lw0_parte1/` — `safe_session.py`, `log_joints.py`, exemplo 2001 adaptado e registo das juntas |
+| LW0 parte 2 | `lite6/` (sessão segura), `config/robot.yaml` (parâmetros), `scripts/` (testes do ciclo de vida), `tests/` (pytest), `logs/` |
+| LW1 | `lw1/` — `forward_kinematics.py`, resultados do `fk_check` (sim e real) e vídeo |
+| LW2 | `lw2/` — `inverse_kinematics.py`, resultados do `ik_check` e do estudo, e vídeo |
+
 
 ---
 
