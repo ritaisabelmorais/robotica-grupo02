@@ -285,7 +285,7 @@ O `[set_state], xArm is not ready to move` no fim do `check_connection` é norma
 
 ## Configuração
 
-Todos os parâmetros estão em `config/robot.yaml`; nenhum IP está no código.
+Todos os parâmetros estão em `config/robot.yaml`; nenhum IP está no código do projeto (`lite6/`, `scripts/`, `lw1/`, `lw2/`). Os scripts do LW0 parte 1, em `lw0_parte1/`, foram corridos no IDE do Studio antes desta regra e têm o IP da bancada.
 
 | Parâmetro | Simulador | Robô real |
 | --- | --- | --- |
